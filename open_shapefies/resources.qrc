@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Open_shapefies" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
